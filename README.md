@@ -1,17 +1,52 @@
 # fabroa_project
 
-A new Flutter project.
+## Summary
+The activity focused on setting up a Flutter Web project using VS Code and Dart, organizing the source code into proper folders, and running the application in Google Chrome. It also involved creating a GitHub repository, committing and pushing the initial project files, and preparing a README.md file with instructions for running the application.
 
-## Getting Started
+## Current stack
+Frontend: Flutter Web / Dart
 
-This project is a starting point for a Flutter application.
+Backend: Planned REST API
 
-A few resources to get you started if this is your first Flutter project:
+Database: Planned PostgreSQL
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Version Control: Git and GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Development Environment: Visual Studio Code
+
+Browser: Google Chrome
+
+## Run locally
+Flutter SDK installed and added to PATH
+
+Visual Studio Code
+
+Google Chrome
+
+Git installed
+
+Instructions
+
+Clone the repository:
+
+git clone https://github.com/christinejadefabroa-bot/activity_8.git
+
+Open the project folder in the terminal:
+
+cd activity_8
+
+Install the project dependencies:
+
+flutter pub get
+
+Run the application in Google Chrome:
+
+flutter run -d chrome
+
+Important: Run these commands from the project root directory, where the pubspec.yaml file is located.
+
+## First checkpoint
+Date: October 15, 2026
+Commit: Initial Flutter Web project
+
+GitHub Repository: https://github.com/christinejadefabroa-bot/activity_8
